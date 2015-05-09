@@ -1,0 +1,14 @@
+{
+  "name": "HybridDemoWeb",
+  "version": "1.0.0",
+  "description": "A very simple webapp for demonstrating hybrid iOS functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Melissa Marshall",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
